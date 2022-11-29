@@ -7,4 +7,9 @@ No matter you are a newbie or pro,Image Filter App will be your best choice as p
 
 ![video_2022-02-14_10-52-56 (1)](https://user-images.githubusercontent.com/72391361/153808753-7e46e44d-d2d2-4495-b43f-da6b452c453b.gif)
 ![IMG_20220217_204441](https://user-images.githubusercontent.com/72391361/154518115-694e82c6-d19d-4c95-a2ab-e0b0756d8bf3.jpg)
-AkbaraliKhasanov
+## Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+<a href="https://www.buymeacoffee.com/akbaralixaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
